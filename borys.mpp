@@ -1,2 +1,5 @@
 #import io.class
-void 
+void static main(){
+  I'm Borys;
+  Yeah. I'm.
+}
